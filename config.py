@@ -96,7 +96,7 @@ class Var(object):
     if HAS_SSL:
         URL = "fit-debbie-xavier7233-2fccc846.koyeb.app/"
     else:
-        URL = ""
+        URL = "fit-debbie-xavier7233-2fccc846.koyeb.app/"
 
 
 
